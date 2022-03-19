@@ -36,7 +36,7 @@ social:
     link: https://www.linkedin.com/in/mkaouer/
 organizations:
   - name: Golisano College of Computing and Information Sciences
-    url: ""
+    url: https://www.rit.edu/computing/
 education:
   courses:
     - course: PhD in Computer and Information Science
